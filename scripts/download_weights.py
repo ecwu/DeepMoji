@@ -9,7 +9,7 @@ weights_folder = 'model'
 weights_path = '{}/{}'.format(weights_folder, weights_filename)
 if curr_folder == 'scripts':
     weights_path = '../' + weights_path
-weights_download_link = 'https://www.dropbox.com/s/xqarafsl6a8f9ny/deepmoji_weights.hdf5?dl=0#'
+weights_download_link = 'https://cdn.ecwuuuuu.com/deepmoji/deepmoji_weights.hdf5'
 
 
 MB_FACTOR = float(1 << 20)
